@@ -54,9 +54,16 @@ pip install -r requirements.txt
 Run the app:
 streamlit run app.py
 ```
+
+
 file structure
+
 ├── app.py                  # Main Streamlit app
+
 ├── titanic_model.pkl       # Trained ML model
+
 ├── sex_encoder.pkl         # Encoder for 'Sex' feature
+
 ├── requirements.txt
+
 ├── README.md
